@@ -1,0 +1,249 @@
+Entity,Code,Year,Annual number of AI systems by researcher affiliation
+Academia,,1950,0
+Academia,,1952,1
+Academia,,1954,1
+Academia,,1955,2
+Academia,,1957,1
+Academia,,1959,1
+Academia,,1960,3
+Academia,,1962,1
+Academia,,1963,0
+Academia,,1965,1
+Academia,,1966,0
+Academia,,1968,2
+Academia,,1969,1
+Academia,,1970,1
+Academia,,1973,1
+Academia,,1975,0
+Academia,,1976,1
+Academia,,1977,1
+Academia,,1979,1
+Academia,,1980,0
+Academia,,1981,1
+Academia,,1982,1
+Academia,,1983,1
+Academia,,1984,1
+Academia,,1986,5
+Academia,,1987,2
+Academia,,1988,1
+Academia,,1989,6
+Academia,,1990,1
+Academia,,1991,1
+Academia,,1992,1
+Academia,,1993,0
+Academia,,1994,3
+Academia,,1995,2
+Academia,,1996,2
+Academia,,1997,3
+Academia,,1998,0
+Academia,,1999,1
+Academia,,2000,4
+Academia,,2001,2
+Academia,,2002,2
+Academia,,2003,5
+Academia,,2004,2
+Academia,,2005,6
+Academia,,2006,11
+Academia,,2007,6
+Academia,,2008,7
+Academia,,2009,5
+Academia,,2010,11
+Academia,,2011,8
+Academia,,2012,10
+Academia,,2013,16
+Academia,,2014,19
+Academia,,2015,6
+Academia,,2016,19
+Academia,,2017,19
+Academia,,2018,10
+Academia,,2019,13
+Academia,,2020,9
+Academia,,2021,10
+Academia,,2022,15
+Academia,,2023,16
+Academia and industry collaboration,,1950,0
+Academia and industry collaboration,,1952,0
+Academia and industry collaboration,,1954,0
+Academia and industry collaboration,,1955,0
+Academia and industry collaboration,,1957,0
+Academia and industry collaboration,,1959,0
+Academia and industry collaboration,,1960,0
+Academia and industry collaboration,,1962,0
+Academia and industry collaboration,,1963,0
+Academia and industry collaboration,,1965,0
+Academia and industry collaboration,,1966,0
+Academia and industry collaboration,,1968,0
+Academia and industry collaboration,,1969,0
+Academia and industry collaboration,,1970,0
+Academia and industry collaboration,,1973,0
+Academia and industry collaboration,,1975,0
+Academia and industry collaboration,,1976,0
+Academia and industry collaboration,,1977,0
+Academia and industry collaboration,,1979,0
+Academia and industry collaboration,,1980,0
+Academia and industry collaboration,,1981,0
+Academia and industry collaboration,,1982,0
+Academia and industry collaboration,,1983,0
+Academia and industry collaboration,,1984,0
+Academia and industry collaboration,,1986,0
+Academia and industry collaboration,,1987,0
+Academia and industry collaboration,,1988,0
+Academia and industry collaboration,,1989,1
+Academia and industry collaboration,,1990,0
+Academia and industry collaboration,,1991,0
+Academia and industry collaboration,,1992,0
+Academia and industry collaboration,,1993,0
+Academia and industry collaboration,,1994,0
+Academia and industry collaboration,,1995,0
+Academia and industry collaboration,,1996,0
+Academia and industry collaboration,,1997,0
+Academia and industry collaboration,,1998,1
+Academia and industry collaboration,,1999,2
+Academia and industry collaboration,,2000,0
+Academia and industry collaboration,,2001,0
+Academia and industry collaboration,,2002,1
+Academia and industry collaboration,,2003,0
+Academia and industry collaboration,,2004,0
+Academia and industry collaboration,,2005,0
+Academia and industry collaboration,,2006,1
+Academia and industry collaboration,,2007,0
+Academia and industry collaboration,,2008,1
+Academia and industry collaboration,,2009,1
+Academia and industry collaboration,,2010,1
+Academia and industry collaboration,,2011,3
+Academia and industry collaboration,,2012,2
+Academia and industry collaboration,,2013,3
+Academia and industry collaboration,,2014,8
+Academia and industry collaboration,,2015,7
+Academia and industry collaboration,,2016,8
+Academia and industry collaboration,,2017,14
+Academia and industry collaboration,,2018,16
+Academia and industry collaboration,,2019,20
+Academia and industry collaboration,,2020,12
+Academia and industry collaboration,,2021,19
+Academia and industry collaboration,,2022,19
+Academia and industry collaboration,,2023,26
+Industry,,1950,1
+Industry,,1952,0
+Industry,,1954,0
+Industry,,1955,0
+Industry,,1957,0
+Industry,,1959,2
+Industry,,1960,0
+Industry,,1962,1
+Industry,,1963,1
+Industry,,1965,0
+Industry,,1966,1
+Industry,,1968,0
+Industry,,1969,0
+Industry,,1970,0
+Industry,,1973,0
+Industry,,1975,1
+Industry,,1976,0
+Industry,,1977,0
+Industry,,1979,0
+Industry,,1980,1
+Industry,,1981,0
+Industry,,1982,0
+Industry,,1983,0
+Industry,,1984,1
+Industry,,1986,0
+Industry,,1987,0
+Industry,,1988,1
+Industry,,1989,3
+Industry,,1990,0
+Industry,,1991,0
+Industry,,1992,2
+Industry,,1993,2
+Industry,,1994,0
+Industry,,1995,2
+Industry,,1996,1
+Industry,,1997,2
+Industry,,1998,1
+Industry,,1999,0
+Industry,,2000,0
+Industry,,2001,1
+Industry,,2002,1
+Industry,,2003,1
+Industry,,2004,0
+Industry,,2005,1
+Industry,,2006,0
+Industry,,2007,4
+Industry,,2008,2
+Industry,,2009,6
+Industry,,2010,2
+Industry,,2011,0
+Industry,,2012,3
+Industry,,2013,8
+Industry,,2014,5
+Industry,,2015,13
+Industry,,2016,21
+Industry,,2017,23
+Industry,,2018,24
+Industry,,2019,34
+Industry,,2020,27
+Industry,,2021,45
+Industry,,2022,46
+Industry,,2023,59
+Other,,1950,0
+Other,,1952,0
+Other,,1954,0
+Other,,1955,0
+Other,,1957,0
+Other,,1959,0
+Other,,1960,0
+Other,,1962,0
+Other,,1963,0
+Other,,1965,0
+Other,,1966,0
+Other,,1968,0
+Other,,1969,0
+Other,,1970,0
+Other,,1973,0
+Other,,1975,0
+Other,,1976,0
+Other,,1977,0
+Other,,1979,0
+Other,,1980,0
+Other,,1981,0
+Other,,1982,0
+Other,,1983,0
+Other,,1984,0
+Other,,1986,0
+Other,,1987,0
+Other,,1988,0
+Other,,1989,0
+Other,,1990,4
+Other,,1991,1
+Other,,1992,2
+Other,,1993,1
+Other,,1994,3
+Other,,1995,0
+Other,,1996,1
+Other,,1997,1
+Other,,1998,0
+Other,,1999,0
+Other,,2000,0
+Other,,2001,0
+Other,,2002,0
+Other,,2003,0
+Other,,2004,1
+Other,,2005,1
+Other,,2006,0
+Other,,2007,0
+Other,,2008,0
+Other,,2009,0
+Other,,2010,0
+Other,,2011,0
+Other,,2012,0
+Other,,2013,0
+Other,,2014,1
+Other,,2015,2
+Other,,2016,2
+Other,,2017,2
+Other,,2018,2
+Other,,2019,5
+Other,,2020,6
+Other,,2021,3
+Other,,2022,3
+Other,,2023,3

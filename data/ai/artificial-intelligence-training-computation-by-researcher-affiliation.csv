@@ -1,0 +1,910 @@
+Entity,Code,Day,Training computation (petaFLOP),Researcher affiliation
+(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),,2018-08-30,693,Academia and industry collaboration
+2-layer-LSTM+Deep-Gradient-Compression,,2017-12-05,1.34,Academia and industry collaboration
+3D city reconstruction,,2009-09-29,,Academia and industry collaboration
+4 layer QRNN (h=2500),,2018-03-22,240.00002,Industry
+6-Act Tether,,2021-08-03,,Academia and industry collaboration
+6-layer MLP (MNIST),,2010-03-01,0.130788,Academia
+A3C FF hs,,2016-02-04,,Academia and industry collaboration
+ADALINE,,1960-06-30,9.9e-12,Academia
+ADAM (CIFAR-10),,2014-12-22,60.48,Academia and industry collaboration
+ADAPTIVE NLPM,,2008-12-08,,Academia
+ADM,,2021-05-11,6200000,Industry
+AFM-on-device,,2024-07-29,451260000,Industry
+AFM-server,,2024-07-29,,Industry
+ALBERT,,2019-09-26,,Academia and industry collaboration
+ALBERT-xxlarge,,2020-02-09,2390000,Academia and industry collaboration
+ALIGN,,2021-06-11,25986700,Industry
+ALM 1.0,,2022-11-28,,Academia
+ALVINN,,1989-12-01,0.000010548576,Academia
+AMDIM,,2019-06-03,,Industry
+ANN Eye Tracker,,1993-11-29,0.000017534401,Other
+AR-LDM,,2022-11-20,510000,Academia and industry collaboration
+ASE+ACE,,1983-09-01,3.24e-7,Academia
+ATLAS,,2020-05-02,38257.92,Other
+AWD-LSTM,,2017-07-18,,Academia and industry collaboration
+AWD-LSTM + MoS + Partial Shuffled,,2019-06-10,328,Academia
+AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),,2017-08-07,309.00003,Industry
+AWD-LSTM+WT+Cache+IOG (WT2),,2017-09-26,3.3100002,Industry
+AWD-LSTM-DRILL + dynamic evaluation† (WT2),,2019-05-14,424,Academia
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",,2017-11-10,437,Academia
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2018)",,2018-09-18,,Academia and industry collaboration
+AWD-LSTM-MoS+PDR + dynamic evaluation (WT2),,2018-08-14,,Industry
+AbLang (heavy sequences),,2022-01-22,,Academia
+AdaBoost.M2 Digit Recognition,,1996-07-03,,Industry
+AdaRNN,,2014-06-01,,Academia
+Adaptive Input Transformer + RD,,2021-06-28,82000,Academia and industry collaboration
+Adaptive Inputs + LayerDrop,,2019-09-25,,Academia and industry collaboration
+Adaptive Subgrad,,2011-10-03,,Academia and industry collaboration
+Advantage Learning,,2015-12-15,,Industry
+Adversarial Joint Adaptation Network (ResNet),,2017-08-17,,Academia
+Agent57,,2020-03-30,,Industry
+Agile Soccer Robot,,2023-04-26,,Industry
+AlexNet,,2012-09-30,470,Academia
+AlexaTM 20B,,2022-08-02,204374020,Industry
+AlphaCode,,2022-02-02,156816000,Industry
+AlphaFold,,2020-01-15,100000,Industry
+AlphaFold 2,,2020-11-30,2990000,Industry
+AlphaFold-Multimer,,2021-10-04,4350000,Industry
+AlphaGeometry,,2024-01-17,,Academia and industry collaboration
+AlphaGo Fan,,2015-10-01,380000.03,Industry
+AlphaGo Lee,,2016-01-27,1900000,Industry
+AlphaGo Master,,2017-01-01,200010000,Industry
+AlphaGo Zero,,2017-10-18,341000000,Industry
+AlphaMissense,,2023-09-22,,Industry
+AlphaStar,,2019-10-30,59250000,Industry
+AlphaX-1,,2019-10-02,7600,Academia and industry collaboration
+AlphaZero,,2017-12-05,36679270,Industry
+AltCLIP_M9,,2022-11-12,,Academia
+Amazon Titan,,2023-09-28,4800000000,Industry
+AmoebaNet-A (F=190),,2018-02-05,,Industry
+AmoebaNet-A (F=448),,2018-02-05,385296.9,Industry
+Ankh_large,,2023-01-16,6500000,Academia
+AudioGen,,2023-03-05,9500000,Academia and industry collaboration
+AudioLM,,2023-07-26,3900,Industry
+Aya,,2024-02-12,,Academia and industry collaboration
+BART-large,,2019-10-29,,Industry
+BASIC-L,,2021-11-19,41200000,Industry
+BASIC-L + Lion,,2023-02-13,,Academia and industry collaboration
+BEIT-3,,2022-08-22,70000,Industry
+BERT-Large,,2018-10-11,285000,Industry
+BERT-Large-CAS (PTB+WT2+WT103),,2019-04-20,521000.03,Industry
+BERT-RBP,,2022-04-07,140000,Academia
+BIDAF,,2016-11-05,3468.6145,Other
+BLIP-2 (Q-Former),,2023-01-30,1200000,Industry
+BLOOM-176B,,2022-11-08,365664000,Other
+BLOOMZ-176B,,2022-11-03,,Industry
+BLSTM for handwriting (1),,2007-09-23,,Academia
+BLSTM for handwriting (2),,2007-12-03,,Academia
+BLUUMI,,2023-11-03,,Academia and industry collaboration
+BOXES,,1968-07-01,,Academia
+BPE,,2015-08-31,,Academia
+BPL,,2015-12-11,,Academia
+Back-propagation,,1986-10-01,1.24416e-7,Academia
+Bankruptcy-NN,,1990-06-17,0.0000030593378,Other
+Base LM + kNN LM + Continuous Cache,,2019-11-01,7300.0005,Academia and industry collaboration
+BatchNorm,,2015-06-15,,Industry
+Bayesian automated hyperparameter tuning,,2012-12-02,,Academia
+BellKor 2007,,2009-09-21,,Industry
+BellKor 2008,,2009-08-01,,Industry
+BellKor 2009,,2009-08-01,,Industry
+BiLSTM for Speech,,2005-08-01,0.024124576,Academia
+Bidirectional RNN,,1997-11-01,,Industry
+Big Transfer (BiT-L),,2019-12-24,,Industry
+Big Transformer for Back-Translation,,2018-08-28,108084.33,Industry
+Big-Little Net,,2018-07-10,246.048,Industry
+Big-Little Net (speech),,2018-07-10,429.00482,Industry
+BigBiGAN,,2019-07-04,,Industry
+BigChaos 2008,,2008-11-25,,Industry
+BigChaos OptiBlend,,2009-08-01,,Industry
+BigGAN-deep 512x512,,2018-09-28,1800000,Academia and industry collaboration
+BigSSL,,2021-01-10,,Industry
+Binarized Neural Network (MNIST),,2016-03-17,,Academia
+BlenderBot 3,,2022-08-10,430000030,Academia and industry collaboration
+BloombergGPT,,2023-03-30,236000020,Academia and industry collaboration
+Boosting,,1992-11-30,,Industry
+Boss (DARPA Urban Challenge),,2008-07-23,,Academia
+ByT5-XXL,,2021-05-28,81000000,Industry
+CICERO,,2022-11-22,,Industry
+CLIP (ResNet-50),,2021-01-05,,Industry
+CLIP (ViT L/14@336px),,2021-01-05,10500000,Industry
+CNN Best Practices,,2003-08-06,,Industry
+CODEFUSION (Python),,2023-10-26,7920,Industry
+CPC v2,,2019-05-22,,Academia and industry collaboration
+CPM-Large,,2020-12-01,1800000,Academia
+CRF-RNN,,2015-02-11,,Academia and industry collaboration
+CT-MoS (WT2),,2020-12-25,562,Academia and industry collaboration
+CTC-Trained LSTM,,2006-06-25,,Academia
+CTM (CIFAR-10),,2023-10-01,,Academia and industry collaboration
+CURL,,2020-04-08,,Academia
+CaLM,,2022-12-19,29000,Academia
+CamemBERT,,2019-11-10,830000,Academia and industry collaboration
+Cancer drug mechanism prediction,,1992-10-16,5.346e-8,Other
+CapsNet (MNIST),,2017-10-26,,Industry
+CapsNet (MultiMNIST),,2017-10-26,,Industry
+Cascaded LNet-ANet,,2014-11-28,,Academia
+Ceramic-MLP,,1994-01-01,0.0000045312,Academia
+Char-CNN-BiLSTM,,2019-06-13,,Industry
+Character-enriched word2vec,,2016-07-15,,Industry
+ChatGLM3-6B,,2023-10-27,50400000,Industry
+Chinchilla,,2022-03-29,576000000,Industry
+Chinese - English translation,,2018-03-01,,Industry
+Claude,,2023-03-14,,Industry
+Claude 2,,2023-07-11,3866000100,Industry
+Claude 2.1,,2023-11-21,,Industry
+Claude 3 Opus,,2024-03-04,,Industry
+Claude 3.5 Sonnet,,2024-06-20,,Industry
+CoAtNet,,2021-06-09,42700004,Industry
+CoCa,,2022-06-14,73000000,Industry
+CoEdiT-xxl,,2023-05-17,,Academia and industry collaboration
+CoRe,,2023-12-29,,Academia
+CodeT5+,,2023-05-20,,Industry
+CodeT5-base,,2021-11-01,1560000.1,Academia and industry collaboration
+CodeT5-large,,2022-07-05,2720000,Industry
+Codex,,2021-07-07,73440000,Industry
+CogAgent,,2023-12-14,67070004,Academia and industry collaboration
+CogVLM-17B,,2023-11-06,63310000,Academia and industry collaboration
+CogVideo,,2022-05-29,,Academia
+CogView,,2021-05-26,26800000,Academia and industry collaboration
+Cognitron,,1975-09-01,5.76e-9,Industry
+Cohere Embed,,2023-11-02,,Industry
+Conformer,,2020-05-16,,Industry
+Conformer + Wav2vec 2.0 + Noisy Student,,2020-10-20,7600000,Industry
+Constituency-Tree LSTM,,2015-02-28,,Academia and industry collaboration
+Context-dependent RNN,,2012-07-27,,Academia and industry collaboration
+ContextNet,,2020-05-07,,Industry
+ContextNet + Noisy Student,,2020-01-19,8160000,Industry
+Contriever,,2021-12-16,157000,Academia and industry collaboration
+Conv-DBN,,2009-06-14,,Academia
+ConvNet similarity metric,,2005-06-20,,Academia
+ConvS2S (ensemble of 8 models),,2017-07-25,56400,Industry
+Convolutional Pose Machines,,2016-01-30,,Academia
+Cross-Lingual POS Tagger,,2011-06-19,,Academia and industry collaboration
+Cross-lingual alignment,,2019-04-04,2560,Academia
+Cutout-regularized net,,2017-08-15,,Other
+DALL-E,,2021-01-05,47000000,Industry
+DALL·E 2,,2022-04-06,,Industry
+DALL·E 3,,2023-10-19,,Industry
+DANet,,2019-04-21,,Academia
+DARTS,,2018-06-24,11,Academia and industry collaboration
+DBLSTM,,2013-12-08,,Academia
+DCN+,,2017-10-31,,Industry
+DD-PPO,,2019-12-19,780000.06,Academia and industry collaboration
+DDPM-IP (CelebA),,2023-01-27,350000,Academia
+DETR,,2020-05-26,400000,Industry
+DINOv2,,2023-04-14,7418511,Academia and industry collaboration
+DITTO,,2022-06-06,11000,Academia and industry collaboration
+DImensionality Reduction,,2006-07-18,,Academia
+DLRM-2020,,2019-05-31,4000,Industry
+DMN,,2016-06-20,,Industry
+DNABERT,,2021-08-15,107000.01,Academia
+DOT(S)-RNN,,2013-12-20,,Academia
+DQN,,2013-12-19,2.3000002,Industry
+DQN-2015,,2015-02-25,,Industry
+DeBERTa,,2021-06-10,25880000,Industry
+DeBERTaV3-large + KEAR,,2021-12-06,,Industry
+DeLighT,,2020-08-03,24000,Other
+DeViSE,,2013-12-05,,Industry
+Decision tree (classification),,2001-12-08,0.063,Industry
+Decision tree adaline,,1969-05-01,,Academia
+Deconvolutional Network,,2010-06-13,,Academia
+Decoupled weight decay regularization,,2019-01-04,2470.0002,Academia
+Deep Belief Nets,,2006-07-18,,Academia
+Deep Blue,,1997-05-01,,Industry
+Deep Boltzmann Machines,,2009-04-16,,Academia
+Deep Deterministic Policy Gradients,,2015-09-09,,Industry
+Deep LSTM video classifier,,2015-05-01,,Academia and industry collaboration
+Deep Multitask NLP Network,,2008-07-05,,Industry
+Deep rectifier networks,,2011-04-13,,Academia
+DeepFace,,2014-06-23,,Academia and industry collaboration
+DeepLab,,2014-12-22,,Academia and industry collaboration
+DeepLab (2017),,2017-04-27,,Academia and industry collaboration
+DeepLabV3,,2017-06-17,,Industry
+DeepLabV3+,,2018-02-07,,Industry
+DeepNash,,2022-12-01,,Industry
+DeepNet,,2022-03-01,,Industry
+DeepSeek-Coder-V2 236B,,2024-06-17,1285200000,Industry
+DeepSpeech2 (English),,2015-12-08,26000,Industry
+DeepStack,,2017-01-06,14463.36,Academia
+Deeply-recursive ConvNet,,2016-11-11,,Academia
+Deeply-supervised nets,,2014-09-18,,Industry
+DeiT-B,,2021-01-15,78840,Academia and industry collaboration
+Denoising Autoencoders,,2008-07-05,,Academia
+Denoising Diffusion Probabilistic Models (LSUN Bedroom),,2021-06-11,380000.03,Academia
+DenseNet-264,,2016-08-25,,Academia and industry collaboration
+DensePhrases,,2020-12-23,2099.52,Academia
+Detic,,2022-01-07,23439.975,Academia and industry collaboration
+DiT-XL/2,,2023-03-02,600000,Academia
+DiT-XL/2 + CADS,,2023-10-26,,Academia
+DiT-XL/2 + Discriminator Guidance,,2022-11-28,,Academia and industry collaboration
+Diabetic Retinopathy Detection Net,,2016-12-13,,Academia and industry collaboration
+DiffDock,,2022-10-04,72000,Academia
+Differentiable neural computer,,2016-10-12,,Industry
+Diffractive Deep Neural Network,,2018-04-14,,Academia
+Diffusion-GAN,,2022-06-05,,Academia and industry collaboration
+Diplodocus,,2022-10-11,,Academia and industry collaboration
+Discriminator Guidance,,2022-11-28,215700,Academia and industry collaboration
+DistBelief NNLM,,2013-01-16,2612.736,Industry
+DistBelief Speech,,2012-12-03,311.40002,Industry
+DistBelief Vision,,2012-12-03,,Industry
+DistilBERT,,2019-10-02,12441.6,Industry
+Distributed representation NN,,1986-01-01,3.888e-7,Academia
+DnCNN,,2017-02-01,,Academia and industry collaboration
+Domain Adaptation,,2011-11-06,,Academia
+DrLIM,,2006-06-17,,Academia
+Dropout (CIFAR),,2012-06-03,4.2687,Academia
+Dropout (ImageNet),,2012-06-03,273.1968,Academia
+Dropout (MNIST),,2012-06-03,6.039371,Academia
+Dropout (TIMIT),,2012-06-03,,Academia
+Dropout-LSTM+Noise(Bernoulli) (WT2),,2018-05-03,127,Academia
+Dropout: SVHN,,2014-06-01,,Academia
+EDSR,,2017-06-10,,Academia
+EI-REHN-1000D,,2017-08-14,10.599999,Academia
+ELECTRA,,2020-03-23,3100000,Academia and industry collaboration
+ELMo,,2018-02-01,,Other
+EMDR,,2021-06-09,1040000,Academia and industry collaboration
+ENAS,,2018-02-09,20.1,Academia and industry collaboration
+EN^2AS with performance reward,,2019-07-22,,Academia
+ERNIE 3.0,,2021-07-05,22500000,Industry
+ERNIE 3.0 Titan,,2021-12-23,1042100030,Academia and industry collaboration
+ERNIE 3.5,,2023-06-27,,Industry
+ERNIE 4.0,,2023-10-17,,Industry
+ERNIE-Doc (247M),,2020-12-31,29100,Industry
+ERNIE-GEN (large),,2020-08-06,200000,Industry
+ERNIE-ViLG,,2021-12-31,,Industry
+ESM1b,,2020-12-15,5100000,Academia and industry collaboration
+ESM2-15B,,2022-07-21,73500000,Academia and industry collaboration
+ESM3 (98B),,2024-06-25,1070000000,Academia and industry collaboration
+ESRGAN,,2018-09-01,,Academia
+EVA-01,,2022-11-14,3750943.5,Academia
+EfficientDet,,2020-07-27,,Industry
+EfficientNet-L2,,2019-05-28,,Industry
+EfficientNetV2-XL,,2021-06-23,95600.01,Industry
+EfficientZero,,2021-10-30,,Academia
+Elastic weight consolidation,,2016-12-02,,Industry
+Empirical evaluation of deep architectures,,2007-06-01,,Academia
+EnCodec,,2022-10-24,,Industry
+Enhanced Neighborhood-Based Filtering,,2007-10-28,,Industry
+Error Propagation,,1986-01-03,,Academia
+Eve,,2021-10-27,,Academia
+FAIRSEQ Adaptive Inputs,,2019-04-01,7300.0005,Industry
+FAST,,2006-05-07,,Academia
+FLAN 137B,,2021-09-03,2047000000,Industry
+FTW,,2018-07-03,7260000.5,Industry
+Falcon-180B,,2023-09-06,3760000300,Other
+Falcon-40B,,2023-03-15,240000000,Other
+Fast R-CNN,,2015-04-30,,Industry
+Faster R-CNN,,2015-06-04,,Industry
+Feedback Transformer,,2020-02-21,44100,Academia and industry collaboration
+Feedforward NN,,2010-05-13,0.35000002,Academia
+Ferret (13B),,2023-10-11,,Academia and industry collaboration
+FinGPT-13B,,2023-10-07,160000000,Academia
+Fine-tuned-AWD-LSTM-DOC(fin),,2018-11-12,1.9200001,Industry
+Firefly,,2023-03-21,,Industry
+Fisher Kernel GMM,,2007-07-16,,Industry
+Fisher Vector image classifier,,2013-06-12,0.0908424,Academia and industry collaboration
+Fisher-Boost,,2010-09-05,,Industry
+FixRes ResNeXt-101 WSL,,2019-06-14,,Industry
+Flamingo,,2022-04-29,218972000,Industry
+Flan T5-XXL + BLIP-2,,2023-01-30,,Industry
+Flan-PaLM 540B,,2022-10-20,2500000000,Industry
+Flan-T5 11B,,2022-10-20,33000000,Industry
+Florence,,2021-11-22,48310000,Industry
+Fold2Seq,,2021-06-24,3006.798,Academia and industry collaboration
+Fractional Max-Pooling,,2014-12-18,100,Academia
+Fragment embedding,,2014-06-21,,Academia
+FrameNet role labeling,,2000-09-01,,Academia
+Fraternal dropout + AWD-LSTM 3-layer (WT2),,2017-10-31,98.5,Academia
+Fully Convolutional Networks,,2014-11-14,,Academia
+FunSearch,,2023-12-14,387000000,Industry
+Fusion in Encoder,,2022-11-18,130000,Industry
+Fuzzy NN,,1992-09-01,0.0000014031178,Academia
+GAN-Advancer,,2016-12-05,,Industry
+GANs,,2014-06-10,518.4,Academia
+GBERT-Large,,2020-10-21,2244464.5,Other
+GCNN-14,,2016-12-23,,Industry
+GGNN,,2023-08-05,7560000.5,Academia
+GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2),,2017-08-29,474.00003,Academia
+GLEE,,1968-07-01,,Academia
+GLIDE,,2021-12-20,47000000,Industry
+GLM-130B,,2022-08-04,377800000,Academia
+GLM-4 (0520),,2024-06-18,,Industry
+GLaM,,2021-12-13,374000000,Industry
+GNMT,,2016-09-26,6620000,Industry
+GOAT,,2021-07-27,78000010,Industry
+GPT-1,,2018-06-01,17578.125,Industry
+GPT-2 (1.5B),,2019-02-14,1920000.1,Industry
+GPT-3 175B (davinci),,2020-05-28,314000000,Industry
+GPT-3.5 (text-davinci-003),,2022-11-28,2578000000,Industry
+GPT-3.5 Turbo,,2022-11-30,,Industry
+GPT-4,,2023-03-15,21000000000,Industry
+GPT-4 Turbo,,2023-11-06,,Industry
+GPT-4V,,2023-09-25,,Industry
+GPT-4o,,2024-05-13,,Industry
+GPT-NeoX-20B,,2022-02-09,93162700,Other
+GPU DBNs,,2009-06-15,1,Academia
+GPipe (Amoeba),,2018-11-16,,Industry
+GPipe (Transformer),,2018-11-16,,Industry
+GRUs,,2014-06-03,,Academia
+GSM,,2017-07-30,,Academia and industry collaboration
+GShard (dense),,2020-06-30,137020000,Industry
+Galactica,,2022-11-16,324000000,Industry
+Gated HORNN (3rd order),,2016-04-30,,Academia
+Gato,,2022-05-12,4020000,Industry
+Gemini 1.0 Pro,,2023-12-06,,Industry
+Gemini 1.0 Ultra,,2023-12-06,50000003000,Industry
+Gemini 1.5 Pro,,2024-02-15,,Industry
+Gemini Nano-1,,2023-12-19,,Industry
+Gemini Nano-2,,2023-12-19,,Industry
+Gen-1,,2023-02-06,,Industry
+Gen-2,,2023-03-20,,Industry
+GenSLM,,2022-10-11,1420000,Academia and industry collaboration
+Generative BST,,2021-03-05,,Industry
+Genetic algorithm,,1954-07-02,,Academia
+German ELECTRA Large,,2020-10-21,1428295.6,Other
+GloVe (32B),,2014-01-01,,Academia
+GloVe (6B),,2014-01-01,,Academia
+Go-explore,,2020-04-27,,Industry
+Goat-7B,,2023-05-23,,Academia
+Golem,,1992-10-01,,Other
+GoogLeNet / InceptionV1,,2014-09-17,1510,Academia and industry collaboration
+Gopher (280B),,2021-12-08,631000000,Industry
+Gradient Boosting Machine,,2001-10-01,,Academia
+Graph-based structural reasoning,,1970-09-01,,Academia
+GraphCast,,2023-11-14,21000000,Industry
+Greedy layer-wise DNN training,,2006-12-04,,Academia
+GroupLens,,1994-10-22,,Academia
+HLBL,,2008-12-08,,Academia
+HMM Word Alignment,,1996-08-05,,Academia
+HOGWILD!,,2011-11-11,,Academia
+HRA,,2017-06-13,,Industry
+Hanabi 4 player,,2019-02-01,4300,Academia and industry collaboration
+Handwritten Digit Recognition System,,1989-01-01,0.00018144,Industry
+Heuristic Reinforcement Learning,,1965-10-01,1.08e-9,Academia
+Hierarchical Cognitron,,1984-04-01,,Industry
+Hierarchical LM,,2005-01-01,0.115848005,Other
+Hiero,,2005-06-01,,Academia
+Histograms of Oriented Gradients,,2005-06-25,,Academia
+Hopfield Networks (2020),,2020-07-16,,Academia
+Hopfield network,,1982-04-01,,Academia
+HuBERT,,2021-07-27,5540000,Industry
+Hybrid H3-2.7B,,2022-12-28,849000.06,Academia
+HyenaDNA,,2023-06-27,1811000,Academia
+HyperCLOVA 204B,,2021-09-10,,Industry
+HyperNEAT,,2014-03-05,,Academia
+IBM Model 4,,1999-07-02,,Academia and industry collaboration
+IBM-5,,1993-06-15,,Industry
+IMPALA,,2018-02-05,168000,Industry
+ISR network,,1990-10-01,,Academia
+ISS,,2017-09-15,3.4,Academia and industry collaboration
+Image generation,,2013-12-20,0.47520003,Academia
+Image-to-image cGAN,,2016-11-21,,Academia
+ImageBind,,2023-05-09,,Industry
+Imagen,,2022-05-23,14600000,Industry
+Immediate trihead,,2001-07-06,,Academia
+Inception v3,,2015-12-02,,Academia and industry collaboration
+Inception-ResNet-V2,,2016-02-23,,Industry
+Inceptionv4,,2016-02-23,,Industry
+Incoder-6.7B,,2023-04-09,3000010.2,Academia and industry collaboration
+Inflated 3D ConvNet,,2017-06-01,,Academia and industry collaboration
+Inflection-2,,2023-11-22,10010000000,Industry
+Inflection-2.5,,2024-03-07,10001000000,Industry
+Innervator,,1989-01-01,1.2e-7,Academia
+InstructBLIP,,2023-05-11,194000,Academia and industry collaboration
+InstructGPT,,2022-01-27,,Industry
+InternImage,,2022-11-10,,Academia and industry collaboration
+InternLM,,2023-07-06,,Academia and industry collaboration
+Internal functionality of visual invariants,,1979-05-02,,Academia
+Invariant CNN,,2004-06-27,0.00097423,Academia
+Invariant image recognition,,1989-06-18,0.000027,Academia
+Iterative Bootstrapping WSD,,1995-06-26,,Academia
+JFT,,2017-07-10,843000.06,Academia and industry collaboration
+JPMAX,,1994-01-01,8.082828e-8,Other
+Jais,,2023-08-29,30800002,Academia and industry collaboration
+Jurassic-1-Jumbo,,2021-08-11,370000000,Industry
+KEPLER,,2020-11-23,124000,Other
+KN-LM,,2007-06-22,773.03815,Industry
+KN5 LM + RNN 400/10 (WSJ),,2010-09-26,61.440002,Academia
+KataGo,,2019-02-27,23200.002,Industry
+Kohonen network,,1981-07-25,,Academia
+LDA,,2003-02-02,,Academia
+LDM-1.45B,,2021-12-20,,Academia and industry collaboration
+LEP-AD,,2023-03-15,,Academia
+LISSOM,,1995-11-27,0.0001955448,Academia
+LLaMA-65B,,2023-02-24,550000000,Industry
+LLaVA,,2023-04-17,49000,Academia and industry collaboration
+LLaVA 1.5,,2023-11-05,45500004,Academia and industry collaboration
+LMICA,,2004-12-01,2.7820802,Other
+LMS,,1960-06-30,,Academia
+LMSI-Palm,,2022-10-20,,Academia and industry collaboration
+LRCN,,2014-11-07,,Academia
+LRSO-GAN,,2017-10-22,,Academia
+LSTM,,1997-11-15,0.021008,Academia
+LSTM (2018),,2018-03-04,,Academia and industry collaboration
+"LSTM (Hebbian, Cache, MbPA)",,2018-03-27,24000,Academia and industry collaboration
+LSTM + dynamic eval,,2017-09-21,,Academia
+LSTM LM,,2012-01-01,16.6,Academia
+LSTM with forget gates,,1999-01-02,,Academia
+LSTM+NeuralCache,,2018-09-24,1.02,Academia and industry collaboration
+LSTM-300units,,2012-09-01,,Academia
+LSTM-Char-Large,,2015-08-26,2.6499999,Academia
+LTE speaker verification system,,1966-11-01,1.0591706e-7,Industry
+LTM-1,,2023-06-06,,Industry
+LUKE,,2020-10-02,175799.81,Academia
+LaMDA,,2022-02-10,355000000,Industry
+LaNet-L (CIFAR-10),,2019-06-17,,Academia and industry collaboration
+Large regularized LSTM,,2014-09-08,91,Academia and industry collaboration
+LeNet-5,,1998-11-01,0.0028109376,Industry
+Learnability theory of language development,,1984-07-01,,Academia
+Libratus,,2017-01-01,551000,Academia
+Linear Decision Functions,,1962-06-01,1.5592501e-9,Industry
+"Listen, Attend and Spell",,2015-08-20,,Academia and industry collaboration
+Llama 2-70B,,2023-07-18,810000000,Industry
+Llama 2-7B,,2023-07-18,84000000,Industry
+Llama 3-70B,,2024-04-18,6300000000,Industry
+Llama 3.1-405B,,2024-07-23,38000000000,Industry
+Llama Guard,,2023-12-07,160000000,Industry
+Local Binary Patterns for facial recognition,,2006-12-01,,Academia and industry collaboration
+LongT5,,2021-12-15,,Industry
+M4-50B,,2019-10-11,,Industry
+M6-T,,2021-03-05,5500000.5,Industry
+MADALINE I,,1962-07-01,,Academia
+MCDNN (MNIST),,2012-02-13,3.726979,Academia
+MEB,,2021-09-04,,Industry
+MLN-ASR,,1988-08-01,2.96425e-7,Academia
+MLP baggage detector,,1989-01-01,,Industry
+MM1-30B,,2024-03-14,486000000,Industry
+MMLSTM,,2019-12-05,2320,Academia
+MS-CNN,,2016-09-17,,Academia and industry collaboration
+MSA Transformer,,2021-02-13,5490000,Academia and industry collaboration
+"MSRA (C, PReLU)",,2015-02-06,23974.031,Industry
+MT-DNN,,2019-01-31,,Industry
+MUSIC perceptron,,1996-06-03,0.0008817336,Other
+MV-RNN,,2012-07-12,,Academia
+Make-A-Video,,2022-09-29,,Industry
+Mamba-24M (SC09),,2023-12-01,,Academia
+Mask R-CNN,,2017-03-30,,Industry
+Masked Autoencoders,,2021-11-11,460000,Industry
+MatrixFac for Recommenders,,2009-08-07,,Industry
+Max-Margin Markov Networks,,2004-03-01,,Academia
+Maximum Entropy Models for machine translation,,2002-07-06,,Academia
+Maximum compute,,1950-07-02,4e-14,Industry
+Maximum compute,,1957-01-01,6.948949e-10,Academia
+Maximum compute,,1959-02-01,6e-7,Academia
+Maximum compute,,1960-03-30,7.2e-7,Academia
+Maximum compute,,1987-06-06,0.000028328002,Academia
+Maximum compute,,1989-01-01,0.00018144,Industry
+Maximum compute,,1992-05-01,0.018232157,Industry
+Maximum compute,,1994-01-01,0.018621901,Academia
+Maximum compute,,1997-11-15,0.021008,Academia
+Maximum compute,,2000-01-01,6.339,Academia
+Maximum compute,,2007-06-22,1449.4465,Industry
+Maximum compute,,2013-01-16,2612.736,Industry
+Maximum compute,,2014-09-10,56000,Industry
+Maximum compute,,2015-10-01,380000.03,Industry
+Maximum compute,,2016-09-26,6620000,Industry
+Maximum compute,,2017-10-18,341000000,Industry
+Maximum compute,,2021-09-03,2047000000,Industry
+Maximum compute,,2022-06-29,2741500200,Industry
+Maximum compute,,2023-12-06,50000003000,Industry
+Maximum data,,1950-07-02,4e-14,Industry
+Maximum data,,1955-03-01,,Academia
+Maximum data,,1959-07-01,4.284e-7,Industry
+Maximum data,,1983-09-01,3.24e-7,Academia
+Maximum data,,1992-05-01,0.018232157,Industry
+Maximum data,,1993-06-15,,Industry
+Maximum data,,1994-10-22,,Academia
+Maximum data,,1995-06-26,,Academia
+Maximum data,,2007-06-22,1449.4465,Industry
+Maximum data,,2021-02-13,5490000,Academia and industry collaboration
+Maximum data,,2024-09-19,7800000000,Industry
+Maximum parameters,,1950-07-02,4e-14,Industry
+Maximum parameters,,1955-03-01,,Academia
+Maximum parameters,,1957-01-01,6.948949e-10,Academia
+Maximum parameters,,1959-12-01,,Industry
+Maximum parameters,,1975-09-01,5.76e-9,Industry
+Maximum parameters,,1980-04-01,2.281152e-7,Industry
+Maximum parameters,,1993-06-15,,Industry
+Maximum parameters,,1995-09-01,,Industry
+Maximum parameters,,2001-12-08,0.063,Industry
+Maximum parameters,,2007-06-22,1449.4465,Industry
+Maximum parameters,,2021-01-11,82200000,Industry
+Maximum parameters,,2023-10-25,,Academia and industry collaboration
+Maxout Networks,,2013-02-18,,Academia
+MedBERT,,2021-05-20,9470,Academia
+Meena,,2020-01-28,112000000,Industry
+MegaScale (Production),,2024-02-23,12000000000,Academia and industry collaboration
+MegaSyn,,2022-03-07,,Industry
+Megatron-BERT,,2019-09-17,22000002,Industry
+Megatron-LM (8.3B),,2019-09-17,9100000,Industry
+Megatron-Turing NLG 530B,,2021-10-11,1170000000,Industry
+MemoReader,,2018-10-31,,Academia and industry collaboration
+Mesh-TensorFlow Transformer 2.9B (translation),,2018-11-05,68428.805,Industry
+Mesh-TensorFlow Transformer 4.9B (language),,2018-11-05,161740.8,Industry
+MetNet,,2020-03-24,,Industry
+Meta Pseudo Labels,,2021-03-01,47900004,Industry
+MetaLM,,2022-06-13,,Industry
+MetaMimic,,2018-10-11,,Industry
+Mid-level Features,,2010-06-13,,Academia
+Midjourney V1,,2022-02-15,,Industry
+Minerva (540B),,2022-06-29,2741500200,Industry
+Mistral Large 2,,2024-07-24,,Industry
+Mitosis,,2013-09-22,137,Academia
+Mixtral 8x7B,,2023-12-11,,Industry
+Mixture of linear models,,1994-01-01,0.0004536,Other
+MnasNet-A1 + SSDLite,,2019-05-29,1500000,Industry
+MnasNet-A3,,2019-05-29,1500000,Industry
+Mnemonic Reader,,2017-05-08,,Academia and industry collaboration
+MoCo,,2019-11-13,,Industry
+MoE-Multi,,2017-01-23,93939.055,Academia and industry collaboration
+MobileNet,,2017-04-17,,Industry
+MobileNetV2,,2018-06-18,,Industry
+"Mogrifier (d2, MoS2, MC) + dynamic eval",,2019-09-04,,Academia and industry collaboration
+Mogrifier RLSTM (WT2),,2022-11-03,140,Industry
+Monocular Depth Prediction,,2005-12-05,,Academia
+Motion-Driven 3D Feature Tracking,,1988-07-01,,Industry
+MuZero,,2019-11-19,48000,Industry
+Multi-cell LSTM,,2018-11-15,2.01,Academia
+Multi-scale Dilated CNN,,2015-11-23,,Academia and industry collaboration
+Multi-task Cascaded CNN,,2016-08-26,,Academia
+MultiBand Diffusion,,2023-11-08,26000,Academia and industry collaboration
+Multilingual DNN,,2013-05-26,,Industry
+Multiresolution CNN,,2014-06-23,,Academia and industry collaboration
+Multiscale deformable part model,,2008-06-23,,Academia
+MusicGen,,2023-06-08,,Industry
+MusicLM,,2023-01-26,,Industry
+NAS with base 8 and shared embeddings,,2016-11-05,10.5,Industry
+NAS+ESS (156M),,2020-05-06,2890,Academia and industry collaboration
+NASNet-A,,2017-07-21,,Industry
+NASv3 (CIFAR-10),,2016-11-05,2200000,Industry
+NEAT,,2002-06-01,,Academia
+NLLB,,2022-07-06,17511138,Industry
+NLP from scratch,,2011-11-08,,Academia and industry collaboration
+NMT Transformer 437M,,2019-02-28,,Academia and industry collaboration
+NPLM,,2003-03-15,1.3038988,Academia
+NTM,,2014-12-10,,Industry
+Named Entity Recognition model,,2016-05-29,96.940796,Academia
+Nemotron-3-8B,,2023-11-15,180000000,Industry
+Nemotron-4 340B,,2024-06-14,18000000000,Industry
+Neocognitron,,1980-04-01,2.281152e-7,Industry
+NetTalk (dictionary),,1987-06-06,0.000027664064,Academia
+NetTalk (transcription),,1987-06-06,0.000028328002,Academia
+Netflix Recommender System,,2015-12-01,,Industry
+Network in Network,,2013-12-16,,Academia
+NeuMF (Pinterest),,2017-08-16,,Academia
+Neural LM,,2000-01-01,6.339,Academia
+Neuro-Symbolic Concept Learner,,2019-04-26,,Academia and industry collaboration
+NeuroChess,,1994-01-01,0.0008587308,Other
+Noisy Student (L2),,2019-11-11,849346.6,Academia and industry collaboration
+NoisyNet-Dueling,,2017-06-30,,Industry
+Nucleotide Transformer,,2023-01-15,8080000,Academia and industry collaboration
+NÜWA,,2021-11-24,4838400,Academia and industry collaboration
+ONE-PEACE,,2023-05-18,180000,Academia and industry collaboration
+OPT-175B,,2022-05-02,430000030,Industry
+OR-WideResNet,,2017-01-07,,Academia
+OmegaPLM,,2022-07-22,10351411,Academia
+OmniVec,,2023-11-07,,Industry
+Once for All,,2020-04-29,1784281,Academia and industry collaboration
+OntoProtein,,2022-01-23,,Academia
+OpenAI Five,,2019-12-13,67000004,Industry
+OpenAI Five Rerun,,2019-12-13,13000000,Industry
+OpenAI TI7 DOTA 1v1,,2017-08-11,604609.5,Industry
+OpenVLA,,2024-06-13,110000000,Academia and industry collaboration
+Optimized Multi-Scale Edge Detection,,1986-11-01,,Academia
+Optimized Single-layer Net,,2011-04-11,,Academia
+OverFeat,,2013-12-21,,Academia
+PDP model for serial order,,1986-01-05,,Academia
+PG-SWGAN,,2019-06-15,,Academia
+PLATO-XL,,2021-09-20,9900000,Industry
+PLUG,,2021-04-19,35997696,Industry
+PNAS-net,,2017-12-02,,Academia and industry collaboration
+PNASNet-5,,2017-12-02,66290.4,Academia and industry collaboration
+PPLX-70B-Online,,2023-11-29,,Industry
+PSPNet,,2017-07-21,,Academia
+PaLI,,2022-09-14,62042110,Industry
+PaLI-X,,2023-05-29,,Industry
+PaLM (540B),,2022-04-04,2527200000,Industry
+PaLM 2,,2023-05-10,7339999700,Industry
+PaLM-E,,2023-03-06,,Academia and industry collaboration
+PanGu-Σ,,2023-03-20,467000000,Industry
+Pandemonium (morse),,1959-02-01,6e-7,Academia
+Pangu-Weather,,2023-07-05,39800000,Industry
+Paragraph Vector,,2014-05-14,,Industry
+Part-of-sentence tagging model,,2016-05-29,145.41121,Academia
+Parti,,2022-06-22,396289540,Industry
+Pattern recognition and reading by machine,,1959-12-01,,Industry
+PeptideBERT,,2023-08-28,49.000004,Academia
+Perceiver IO (optical flow),,2020-02-08,,Industry
+Perceptron (1960),,1960-03-30,7.2e-7,Academia
+Perceptron Mark I,,1957-01-01,6.948949e-10,Academia
+Perceptron for Large Margin Classification,,1999-12-01,,Academia and industry collaboration
+PermuteFormer,,2021-09-06,2775,Academia
+Phenaki,,2022-10-05,,Academia and industry collaboration
+Photo-Geometric Autoencoder,,2019-11-25,,Academia
+Phrase-based translation,,2003-05-01,,Academia
+PhraseCond,,2017-10-28,,Academia
+Piecewise linear model,,1973-11-01,,Academia
+Pluribus,,2019-07-11,66,Industry
+PoE MNIST,,2000-01-01,0.051810004,Academia
+PointNet,,2016-12-02,,Academia
+PointNet++,,2017-06-07,,Academia
+Pointer Sentinel-LSTM (medium),,2016-09-26,7.49,Industry
+PolyCoder,,2022-02-26,1100000,Academia
+PolyNet,,2016-11-17,64000,Academia
+Population-based DRL,,2018-07-03,34900,Industry
+Pragmatic Theory solution (Netflix 2009),,2009-08-01,,Industry
+PreTrans-3L-250H,,2013-03-22,,Academia
+Predictive Coding NN,,1994-01-01,0.018621901,Academia
+Print Recognition Logic,,1963-01-01,2.25e-8,Industry
+ProBERTa,,2020-09-01,9720.001,Academia
+ProGen2-xlarge,,2022-06-27,13500001,Academia and industry collaboration
+ProgressiveGAN,,2017-10-27,,Industry
+Projected GAN,,2021-11-01,10500,Academia
+ProtBERT-BFD,,2021-05-04,39000004,Other
+ProtT5-XXL,,2021-05-04,73700000,Other
+ProtT5-XXL-BFD,,2021-05-04,37000000,Other
+ProteinBERT,,2022-02-10,65000,Academia and industry collaboration
+ProteinDT,,2023-02-09,,Academia and industry collaboration
+Prototypical networks,,2017-03-15,,Academia and industry collaboration
+ProxylessNAS,,2019-02-23,37065.6,Academia
+PyramidNet,,2017-09-06,2.34,Academia
+Q-learning,,1989-01-01,,Academia
+QMoE: compressed 1T model,,2023-10-25,,Academia and industry collaboration
+QRNN,,2018-02-01,360,Industry
+QT-Opt,,2018-06-27,34875,Academia and industry collaboration
+Qwen-72B,,2023-11-30,1300000000,Industry
+Qwen-Audio-Chat,,2023-11-14,,Industry
+Qwen-VL,,2023-08-24,,Industry
+Qwen-VL-Max,,2024-01-25,,Industry
+Qwen1.5 72B,,2024-02-04,1300000000,Industry
+Qwen2-72B,,2024-06-07,3020000000,Industry
+Qwen2.5-72B,,2024-09-19,7800000000,Industry
+R-CNN (T-net),,2013-11-11,,Academia
+R-FCN,,2016-06-21,61.492943,Academia and industry collaboration
+RAAM,,1990-11-01,,Other
+RBM Image Classifier,,2009-04-08,,Academia
+RCAN,,2018-07-08,,Academia
+RCTM,,2013-10-01,9.3312,Academia
+RETRO-7B,,2022-02-07,16800000,Industry
+RNN 500/10 + RT09 LM (NIST RT05),,2010-09-26,3.414636,Academia
+RNN LM,,2010-01-01,,Academia
+RNN for 1B words,,2013-12-11,,Industry
+RNN+LDA+KN5+cache,,2012-12-01,,Academia and industry collaboration
+RNN+weight noise+dynamic eval,,2013-08-04,4.21,Academia
+RNN-SpeedUp,,2011-05-22,,Academia
+RNN-WER,,2014-06-22,,Academia and industry collaboration
+RNNsearch-50*,,2014-09-01,1555.2,Academia
+RNTN,,2013-10-01,14.22,Academia
+RT-1,,2022-12-13,,Industry
+RT-2,,2023-07-28,,Industry
+RT-2-X,,2023-10-13,,Industry
+RT-Trajectory,,2023-11-03,,Academia and industry collaboration
+Random Decision Forests,,1995-08-14,,Industry
+RankNet,,2005-08-07,0.0034820817,Industry
+Rational DQN Average,,2021-02-18,,Academia
+ReALM,,2024-03-29,,Industry
+ReLU (LFW),,2010-06-15,,Academia
+ReLU (NORB),,2010-06-15,,Academia
+ReLU-Speech,,2013-05-26,127.733765,Academia and industry collaboration
+Reading Twice for NLU,,2017-06-08,,Industry
+Recursive Neural Network,,2011-06-28,,Academia
+Recursive sentiment autoencoder,,2011-07-01,,Academia
+RefineNet,,2016-11-20,,Academia
+Refined Part Pooling,,2018-01-09,,Academia
+Regularized SVD for Collaborative Filtering,,2007-08-12,,Academia
+Relational Memory Core,,2018-06-05,,Academia and industry collaboration
+ResNeXt-101 32x48d,,2018-05-02,8743950,Industry
+ResNeXt-101 Billion-scale,,2019-05-02,,Industry
+ResNeXt-50,,2016-11-16,,Academia and industry collaboration
+ResNet-1001,,2016-09-17,,Industry
+ResNet-110 (CIFAR-10),,2015-12-10,,Industry
+ResNet-152 (ImageNet),,2015-12-10,10414.081,Industry
+ResNet-152 + ObjectNet,,2019-09-06,19400.002,Academia
+ResNet-200,,2016-09-17,29741.645,Industry
+ResNet-50 Billion-scale,,2019-05-02,,Industry
+Residual Dense Network,,2018-02-24,,Academia
+Restricted Bolzmann machines,,2007-06-20,,Academia
+RetinaNet-R101,,2017-08-07,2065.392,Industry
+RetinaNet-R50,,2017-08-07,,Industry
+Retrieval-Augmented Generator,,2020-05-22,,Academia and industry collaboration
+RoBERTa Large,,2019-07-01,4153835.5,Academia and industry collaboration
+RoboCat,,2023-06-20,,Industry
+Robot Parkour,,2023-09-12,,Academia
+Rotation,,2018-03-21,,Academia
+Routing Transformer (WT-103),,2020-03-12,,Industry
+S-Norm,,2017-10-29,,Other
+S4,,2021-10-31,600000,Academia
+SACHS,,2005-04-22,,Academia
+SB-LM,,2007-06-22,1449.4465,Industry
+SC-NLM,,2014-11-10,,Academia
+SEER,,2021-07-29,4420000,Academia and industry collaboration
+SENet (ImageNet),,2017-09-05,,Academia
+SNARC,,1952-01-08,,Academia
+SOM-CNN,,1997-01-01,0.0033577813,Other
+SPHINX (Llama 2 13B),,2023-11-13,30400000,Academia
+SPIDER2,,2016-10-28,18.220001,Academia
+SPN-4+KN5,,2014-01-01,44,Other
+SPPNet,,2014-06-18,3411.072,Academia and industry collaboration
+SRGAN,,2017-05-25,,Industry
+SRN-Encoded Grammatical Structures,,1991-09-01,,Academia
+SRU++ Large,,2021-02-24,11000,Industry
+SSD,,2015-12-08,,Other
+ST-MoE,,2022-02-17,290000000,Industry
+SVD in recommender systems,,2000-07-14,,Academia
+SVM for face detection,,1997-06-17,,Academia
+Samuel Neural Checkers,,1959-07-01,4.284e-7,Industry
+Sandwich Transformer,,2019-11-10,158000,Other
+SciBERT,,2019-03-26,89268.48,Other
+SeamlessM4T,,2023-12-08,,Academia and industry collaboration
+Search-Proven Best LSTM,,2015-07-06,3.3400002,Industry
+"Segatron-XL large, M=384 + HCP",,2022-03-21,26500,Academia and industry collaboration
+Segment Anything Model,,2023-04-05,7800000,Industry
+Selective Search,,2013-04-02,,Academia
+Self Organizing System,,1955-03-01,,Academia
+SemExp,,2020-07-02,,Academia and industry collaboration
+SemVec,,2013-06-09,,Industry
+Semantic Hashing,,2008-12-10,,Academia
+Semi-Supervised Embedding for DL,,2008-07-05,,Academia and industry collaboration
+Seq2Seq LSTM,,2014-09-10,56000,Industry
+Sequence-based pattern recognition,,1955-03-01,,Academia
+SexNet classification,,1990-10-01,,Other
+SexNet compression,,1990-10-01,0.0000787752,Other
+Show-1,,2023-09-27,,Academia
+ShuffleNet v1,,2017-07-03,,Industry
+ShuffleNet v2,,2018-06-30,,Academia and industry collaboration
+Siamese-TDNN,,1993-08-01,0.01286957,Industry
+SimCLR,,2020-02-13,,Industry
+SimCLRv2,,2020-10-26,,Industry
+SimCSE,,2022-05-18,,Academia
+SimpleNet,,2016-08-22,,Academia and industry collaboration
+Skywork-13B,,2023-10-30,250000000,Industry
+SmooCT,,2014-07-01,69,Academia
+Social and content-based classification,,1998-07-01,,Academia and industry collaboration
+Sora,,2024-02-15,,Industry
+Sparse Energy-Based Model,,2006-12-04,,Academia
+Sparse Non-negative Matrix (SNM) estimation,,2014-12-03,,Industry
+Sparse Vision Encoding,,2006-11-01,0.0096048005,Academia
+Sparse all-MLP,,2022-04-14,60770.305,Industry
+Sparse coding model for V1 receptive fields,,1997-12-01,,Academia
+Sparse digit recognition SVM,,2008-11-19,,Academia
+Spatial Pyramid Matching,,2006-06-17,,Academia
+Spatially-Sparse CNN,,2014-09-23,,Academia
+Spatiotemporal fusion ConvNet,,2016-06-01,,Academia
+Speaker-independent vowel classification,,1989-01-01,0.000007485696,Academia
+SpecAugment,,2019-04-18,,Industry
+Spectrally Normalized GAN,,2018-02-16,,Academia and industry collaboration
+SqueezeNet,,2016-02-24,,Academia
+Stable Diffusion (LDM-KL-8-G),,2022-04-13,50000000,Academia and industry collaboration
+Stable Diffusion XL,,2023-07-04,,Industry
+Stacked Denoising Autoencoders,,2010-01-03,,Academia
+Stacked hourglass network,,2016-09-17,,Academia
+Stanley (DARPA Grand Challenge 2),,2006-01-01,,Academia
+StarCoder,,2023-05-09,84600000,Other
+StarGAN v2,,2019-12-04,,Academia and industry collaboration
+Statement Curriculum Learning,,2022-03-02,,Industry
+Statistical Shape Constellations,,2003-01-01,,Academia
+Statistical continuous speech recognizer,,1976-04-30,,Academia
+Student of Games,,2021-12-06,36679270,Industry
+Super-vector coding,,2010-01-01,,Academia and industry collaboration
+Support Vector Machines,,1995-09-01,,Industry
+Swift,,2023-08-30,53.37,Industry
+Swin Transformer V2,,2021-11-18,1100000,Industry
+Switch,,2021-01-11,82200000,Industry
+Symmetric Residual Encoder-Decoder Net,,2016-03-30,,Academia
+System 11,,1996-06-18,0.00001293,Academia
+T0-XXL,,2021-10-15,918190.06,Academia and industry collaboration
+T5-11B,,2019-10-23,33000000,Industry
+T5-3B,,2019-10-23,865865.44,Industry
+TCAN (WT2),,2020-02-28,,Academia and industry collaboration
+TCN (P-MNIST),,2018-02-15,,Academia and industry collaboration
+TD(0),,1977-08-01,,Academia
+TD-Gammon,,1992-05-01,0.018232157,Industry
+TFE SVM,,2006-02-02,,Academia
+TRPO,,2015-02-19,,Academia
+TSN,,2016-09-17,,Academia
+TaLK Convolution,,2020-02-08,27800,Academia
+Table Tennis Agent,,2024-08-07,,Industry
+Tacotron 2,,2017-12-19,,Academia and industry collaboration
+Tagging via Viterbi Decoding,,2002-06-01,,Industry
+Tensor-Transformer(1core)+PN (WT103),,2020-03-17,1580,Academia
+TensorReasoner,,2013-12-01,,Academia
+Tensorized Transformer (257M),,2019-06-24,4760.0005,Academia and industry collaboration
+Textual Imager,,2013-01-16,,Academia
+Theseus,,1950-07-02,4e-14,Industry
+Theseus 6/768,,2020-02-07,,Academia and industry collaboration
+Thumbs Up?,,2002-05-28,,Academia and industry collaboration
+Time-delay neural networks,,1989-03-03,,Academia and industry collaboration
+TrOCR,,2021-09-21,,Academia and industry collaboration
+Trajectory-pooled conv nets,,2015-05-19,,Academia
+TranceptEve,,2022-12-10,,Academia
+Tranception,,2022-05-27,7240000.5,Academia and industry collaboration
+TransE,,2013-12-05,1340.928,Academia and industry collaboration
+Transformer,,2017-06-12,7424.525,Industry
+Transformer (Adaptive Input Embeddings) WT103,,2018-09-28,72000,Industry
+Transformer + Simple Recurrent Unit,,2018-09-17,11000,Academia and industry collaboration
+Transformer - LibriVox + Decoding/Rescoring,,2019-11-19,,Industry
+Transformer ELMo,,2019-01-01,,Other
+Transformer local-attention (NesT-B),,2021-05-26,24057.602,Industry
+Transformer-XL (257M),,2019-01-09,10900,Academia and industry collaboration
+Transformer-XL + RMS dynamic eval,,2019-04-17,,Academia
+Transformer-XL DeFINE (141M),,2019-11-27,6200,Other
+Transformer-XL Large + Phrase Induction,,2019-06-04,7300.0005,Academia
+TransformerXL + spectrum control,,2020-03-11,460,Academia and industry collaboration
+TrellisNet,,2018-10-15,2780,Academia and industry collaboration
+TriNet,,2017-11-21,,Academia
+Truck backer-upper,,1989-06-18,,Academia
+True-Regularization+Finetune+Dynamic-Eval,,2019-04-08,,Academia and industry collaboration
+Turing-NLG,,2020-02-13,15700000,Industry
+Two Stage Feature Extraction for Object Recognition,,2009-09-29,0.4069836,Academia
+Two-stream ConvNets for action recognition,,2014-06-09,,Academia
+U-PaLM (540B),,2022-10-20,2530000100,Industry
+UDSMProt,,2019-09-04,637,Other
+UL2,,2022-05-10,120000000,Industry
+ULM-FiT,,2018-01-18,272.538,Academia
+UnifiedQA,,2020-05-02,16500,Other
+Unsupervised High-level Feature Learner,,2012-07-12,600,Industry
+Unsupervised Scale-Invariant Learning,,2003-06-18,,Academia
+VALL-E,,2023-01-05,10100,Industry
+VD-LSTM+REAL Large,,2016-11-04,21.3,Academia and industry collaboration
+VD-RHN,,2016-07-12,3.57,Academia
+VGG16,,2014-09-04,12291,Academia
+VGG19,,2014-09-04,,Academia
+VQGAN + CLIP,,2020-12-17,,Academia
+"Variational (untied weights, MC) LSTM (Large)",,2015-12-16,5.6200004,Academia
+Vector Space Model,,2011-06-19,,Academia
+ViT + DINO,,2021-04-29,210000,Academia and industry collaboration
+ViT-22B,,2023-02-10,400010020,Industry
+ViT-Base/32,,2020-10-22,,Industry
+ViT-G (model soup),,2022-03-10,3400000.2,Academia and industry collaboration
+ViT-G/14,,2021-06-08,58500000,Industry
+ViT-G/14 (LiT),,2021-11-15,,Industry
+ViT-Huge/14,,2020-10-22,4262000,Industry
+VideoMAE V2,,2023-03-29,9700000,Academia
+Visualizing CNNs,,2013-11-12,532,Academia
+Volcano 13B,,2023-11-13,45600000,Academia and industry collaboration
+W2v-BERT,,2021-08-07,,Academia and industry collaboration
+WGAN-GP,,2017-03-31,,Academia
+Walking Minotaur robot,,2019-06-19,,Academia and industry collaboration
+WaveNet,,2016-09-12,,Industry
+WeNet (Penn Treebank),,2019-04-08,730,Industry
+Weight Decay,,1991-12-02,0.000075474,Other
+Whisper,,2022-09-21,4207266.5,Industry
+Wide & Deep,,2016-06-24,,Industry
+Wide Residual Network,,2016-09-19,,Academia
+Word Representations,,2010-06-01,,Academia
+Word2Vec (large),,2013-10-16,38.879997,Industry
+Word2Vec (small),,2013-10-16,,Industry
+XGLM-7.5B,,2021-12-20,22500000,Industry
+XLM,,2019-06-01,,Industry
+XLM-RoBERTa,,2019-11-05,,Industry
+XLMR-XXL,,2021-08-17,33660000,Industry
+XLNet,,2019-06-01,8900000,Academia and industry collaboration
+Xception,,2016-10-07,436000,Industry
+YOLO,,2015-06-08,,Other
+YOLOX-X,,2021-08-06,,Industry
+YOLOv2,,2016-12-25,,Other
+YOLOv3,,2018-04-08,50939.2,Academia
+Yi-34B,,2023-11-02,610000060,Industry
+YouTube Video Recommendation System,,2010-09-26,,Industry
+Youtube recommendation model,,2016-09-15,,Industry
+Yuan 1.0,,2021-10-12,353800030,Industry
+Zidong Taichu,,2021-08-11,,Academia
+Zip CNN,,1989-12-01,0.000043372118,Industry
+Zoneout + Variational LSTM (WT2),,2016-09-26,16.8,Industry
+aLSTM(depth-2)+RecurrentPolicy (WT2),,2018-05-22,75.9,Other
+base LM+GNN+kNN,,2021-10-17,7300.0005,Academia and industry collaboration
+data2vec (language),,2022-01-20,,Industry
+data2vec (speech),,2022-01-20,,Industry
+data2vec (vision),,2022-01-20,,Industry
+eDiff-I,,2022-11-02,54600.004,Industry
+fastText,,2016-07-06,,Industry
+genCNN + dyn eval,,2015-03-17,73,Academia and industry collaboration
+iGPT-L,,2020-06-17,8910000,Industry
+iGPT-XL,,2020-06-17,33000000,Industry
+mPLUG-Owl2,,2023-11-07,,Industry
+mT0-13B,,2022-11-03,,Other
+mT5-XXL,,2020-10-20,82000000,Industry
+top-down frozen classifier,,2021-02-09,,Academia and industry collaboration
+wave2vec 2.0 LARGE,,2020-10-22,1900000,Industry
+xTrimoPGLM -100B,,2023-07-06,620000000,Academia and industry collaboration
+λ-WASP,,2007-06-01,,Academia

@@ -1,0 +1,73 @@
+Entity,Code,Year,Cumulative number of large-scale AI models by domain
+Audio,,2017,0
+Audio,,2020,0
+Audio,,2021,0
+Audio,,2022,0
+Audio,,2023,3
+Audio,,2024,4
+Biology,,2017,0
+Biology,,2020,0
+Biology,,2021,0
+Biology,,2022,1
+Biology,,2023,3
+Biology,,2024,5
+Games,,2017,2
+Games,,2020,2
+Games,,2021,2
+Games,,2022,2
+Games,,2023,2
+Games,,2024,2
+Image generation,,2017,0
+Image generation,,2020,0
+Image generation,,2021,0
+Image generation,,2022,3
+Image generation,,2023,14
+Image generation,,2024,17
+Language,,2017,0
+Language,,2020,3
+Language,,2021,12
+Language,,2022,34
+Language,,2023,128
+Language,,2024,197
+Mathematics,,2017,0
+Mathematics,,2020,0
+Mathematics,,2021,0
+Mathematics,,2022,0
+Mathematics,,2023,0
+Mathematics,,2024,1
+Multimodal,,2017,0
+Multimodal,,2020,0
+Multimodal,,2021,1
+Multimodal,,2022,2
+Multimodal,,2023,15
+Multimodal,,2024,32
+Robotics,,2017,0
+Robotics,,2020,0
+Robotics,,2021,0
+Robotics,,2022,0
+Robotics,,2023,1
+Robotics,,2024,1
+Speech,,2017,0
+Speech,,2020,0
+Speech,,2021,0
+Speech,,2022,1
+Speech,,2023,2
+Speech,,2024,3
+Total,,2017,2
+Total,,2020,5
+Total,,2021,14
+Total,,2022,41
+Total,,2023,148
+Total,,2024,219
+Video,,2017,0
+Video,,2020,0
+Video,,2021,0
+Video,,2022,1
+Video,,2023,6
+Video,,2024,7
+Vision,,2017,0
+Vision,,2020,0
+Vision,,2021,1
+Vision,,2022,2
+Vision,,2023,15
+Vision,,2024,29
