@@ -7,17 +7,16 @@ st.text("By Manan Sharma")
 
 df = pd.read_csv("./data/number-of-internet-users-by-country.csv")
 
-#  country_code_list = set(df['Code'])
-
-# st.dataframe(df)
-
 country_list = df.Entity
 
-# country_code_list = country_code_list.drop_duplicates
 country_list_unique = country_list.unique()
-# st.write(country_code_list.unique())
 
 df_world = df.loc[df['Entity']=='World']
+
+year_list = df_world["Year"]
+
+# year_list
+start_year, end_year = st.select_slider("Please select the range of data", options=year_list, value=(year_list.values[0], year_list.values[-1]))
 
 st.header("Global Usage: Numbers")
 
@@ -33,14 +32,13 @@ global_last_year = global_last_year.item()
 col1.metric(label="Number of users, in c.e. {}".format(global_first_year), value=global_users_in_first_year)
 
 change_in_users = np.subtract(global_users_in_last_year, global_users_in_first_year)
-# change_in_users = change_in_users.item()
 col2.metric(label="Number of users, in c.e. {}".format(global_last_year), value=global_users_in_last_year, delta=change_in_users.item())
 
 percet_increment = change_in_users/global_users_in_first_year
 percet_increment = percet_increment * 100
 percet_increment = np.round(percet_increment, 2)
 
-col3.metric(label="Growth %, {}-{}".format(global_first_year, global_last_year), value=percet_increment, delta="Percent")
+col3.metric(label="Growth, {}-{}".format(global_first_year, global_last_year), value=percet_increment, delta="Percent")
 
 selected_entity = st.selectbox("Compair it with:", country_list_unique, placeholder="Select a country or entity", index=None)
 
@@ -83,6 +81,17 @@ else:
 st.header("Global Usage: Percentage")
 
 df_percentage = pd.read_csv("./data/share-of-individuals-using-the-internet.csv")
-
 df_percentage_world = df_percentage.loc[df_percentage['Entity']=='World']
-df_percentage_world
+
+df_percentage_world_first_year = df_percentage_world['Year'].values[0]
+df_percentage_world_last_year = df_percentage_world['Year'].values[-1]
+
+col1, col2 = st.columns(2)
+
+percentage_of_population_in_first_year =  df_percentage_world["Individuals using the Internet (% of population)"].values[0]
+col1.metric(label="Percenage of population using internet in {}, globally".format(df_percentage_world_first_year.item()),value=np.round(percentage_of_population_in_first_year, 3))
+percentage_of_population_in_last_year =  df_percentage_world["Individuals using the Internet (% of population)"].values[-1]
+col2.metric(label="Percenage of population using internet in {}, globally".format(df_percentage_world_last_year.item()),value=np.round(percentage_of_population_in_last_year, 3))
+
+st.bar_chart(df_percentage_world, x="Year", y="Individuals using the Internet (% of population)", y_label="Growth of internet users, globally")
+
