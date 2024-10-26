@@ -18,7 +18,7 @@ year_list = df_world["Year"]
 # year_list
 start_year, end_year = st.select_slider("Please select the range of data", options=year_list, value=(year_list.values[0], year_list.values[-1]))
 
-st.header("Global Usage: Numbers")
+st.header("Global Usage: Number OF USERS")
 
 col1, col2, col3 = st.columns(3)
 
